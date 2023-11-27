@@ -2,11 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\GeekHubIA",
-    "\\GeekHubIA\\Pages",
-    "\\GeekHubIA\\Pages\\GeekGPT",
-    "\\GeekHubIA\\Services",
-    "\\GeekHubIA\\Shared"
+    "\\GeekHubIA\\Pages"
   ],
-  "SelectedNode": "\\GeekHubIA\\Services\\AnswerGeneratorService.cs",
+  "SelectedNode": "\\GeekHubIA.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,12 +1,16 @@
-﻿using OpenAI_API;
+﻿using GeekHubIA.Shared;
+using OpenAI_API;
 using OpenAI_API.Completions;
 
 namespace GeekHubIA.Services
 {
+
     public class AnswerGeneratorService : IAnswerGeneratorService
     {
+         
         public async Task<string> GenerateAnswer(string prompt)
         {
+
             string apiKey = "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";
             string answer = string.Empty;
 
@@ -23,6 +27,11 @@ namespace GeekHubIA.Services
                 }
             }
             return answer;
+
+
         }
+
     }
+   
+    
 }
