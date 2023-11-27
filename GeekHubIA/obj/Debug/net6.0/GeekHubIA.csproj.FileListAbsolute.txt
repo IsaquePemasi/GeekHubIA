@@ -32,3 +32,7 @@ C:\Users\Isaque\Desktop\GeekHubIA\GeekHubIA\obj\Debug\net6.0\refint\GeekHubIA.dl
 C:\Users\Isaque\Desktop\GeekHubIA\GeekHubIA\obj\Debug\net6.0\GeekHubIA.pdb
 C:\Users\Isaque\Desktop\GeekHubIA\GeekHubIA\obj\Debug\net6.0\GeekHubIA.genruntimeconfig.cache
 C:\Users\Isaque\Desktop\GeekHubIA\GeekHubIA\obj\Debug\net6.0\ref\GeekHubIA.dll
+C:\Users\Isaque\Desktop\GeekHubIA\GeekHubIA\obj\Debug\net6.0\GeekHubIA.sourcelink.json
+C:\Users\Isaque\Desktop\GeekHubIA\GeekHubIA\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Isaque\Desktop\GeekHubIA\GeekHubIA\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Isaque\Desktop\GeekHubIA\GeekHubIA\bin\Debug\net6.0\OpenAI_API.dll
