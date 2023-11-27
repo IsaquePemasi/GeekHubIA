@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qm6yV6+mpeiUQLFDeb9iEJMl742M/UGhVRTbb2UU71I5HPJGeEszba8Xh2dDuSB/FVSA0GvqFdp78U+FJNkdFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\GeekHubIA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isaque\\.nuget\\packages\\openai-dotnet\\6.4.1\\openai-dotnet.6.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
