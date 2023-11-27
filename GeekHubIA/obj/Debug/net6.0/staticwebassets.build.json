@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yD81OMxEcH8AMLEVPgsIgIZv2p7KNh17ZZ9b/cU+QWU=",
+  "Hash": "ceLNqUeOkbN1BLcu23K7YB06AI6OHly7YI4xSQF6es8=",
   "Source": "GeekHubIA",
   "BasePath": "_content/GeekHubIA",
   "Mode": "Default",
@@ -283,12 +283,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\icon-192.png",
       "SourceId": "GeekHubIA",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\",
       "BasePath": "_content/GeekHubIA",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "icon-192.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,7 +299,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\icon-192.png"
     }
   ]
 }
