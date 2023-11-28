@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeekHubIA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62790e71c530ec4908b9804316228bcced9c9d8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9d21cbd8a2278be8be5898a2944ee399b3c76dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeekHubIA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeekHubIA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

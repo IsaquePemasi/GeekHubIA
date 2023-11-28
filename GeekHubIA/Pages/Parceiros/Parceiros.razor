@@ -1,0 +1,95 @@
+﻿@page "/parceiros"
+
+<main>
+    @*parcerias*@
+    <div class="row">
+        
+        <div class="col-4">              
+            <img src="/Check list volta às aulas ilustrado 3d rosa amarelo story do instagram (1).gif" style="width:330px;height:505px;border-radius:20px;" type="button" data-toggle="modal" alt=""  />        
+        </div>
+        
+        <div class="col-4">
+            <a href="https://www.instagram.com/programamyra/">
+            <img src="/Post Dia do Livro - Dia Nacional e Internacional do Livro Infantil.gif" style="width:330px;height:505px;border-radius:20px;" type="button" data-toggle="modal"  alt="">
+            </a>
+        </div>
+        
+        <div class="col-4">
+            <a href="https://www.instagram.com/projetoubuntuleitura/">
+            <img src="/Panfleto Azul de Escola do Dia das Crianças Estilo 3D.gif" style="width:330px;height:505px;border-radius:20px;" type="button" data-toggle="modal" alt="">
+            </a>
+        </div>
+        
+    </div>
+    @* Descrições *@
+    <hr class="featurette-divider">
+    <div class="row featurette" id="modalExemplo01">
+        <div class="col-md-7">
+            <h2 class="featurette-heading">
+                Doação. <span class="text-muted">
+                    Volta às aulas!
+                </span>
+            </h2>
+            <p class="lead">
+                Você sabia que muitas crianças não têm acesso a materiais escolares de qualidade? Elas precisam de cadernos, lápis, borrachas, canetas, mochilas e outros itens essenciais para aprender e se desenvolver. Por isso, nós estamos fazendo uma campanha de doação pelo QR Code pix, uma forma rápida, fácil e segura de transferir dinheiro para quem precisa. Com o seu apoio, nós podemos comprar materiais escolares para milhares de crianças que estão voltando às aulas. Para doar, basta apontar a câmera do seu celular para o QR Code abaixo e escolher o valor que você quer contribuir. Qualquer quantia é bem-vinda e fará a diferença na vida dessas crianças. Agradeço desde já pela sua generosidade e solidariedade. Juntos, nós podemos fazer um mundo melhor.
+            </p>
+        </div>
+        <div class="col-md-5">
+            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                 style="width: 550px; height: 500px;;" src="/Check list volta às aulas ilustrado 3d rosa amarelo story do instagram (1).gif" data-holder-rendered="true">
+        </div>
+    </div>
+    <hr class="featurette-divider">
+    <div class="row featurette">
+        <div class="col-md-7 order-md-2">
+            <h2 class="featurette-heading">Programa Myra. <span class="text-muted">Programa de voluntariado!</span></h2>
+            <p class="lead">
+                Há cinco anos, o programa de voluntariado <a href="https://www.instagram.com/programamyra/" style="text-decoration: none;">Myra</a> busca estimular o hábito da leitura entre crianças. Os encontros presenciais em escolas públicas e ONGs de São Paulo se adaptaram para o formato on-line. E os estudantes do 4º ao 6º ano do ensino fundamental acessam de casa sessões semanais formativas com um voluntário (profissionais das áreas de educação, cultura, artes, comércio, letras ou aposentados) para ler diferentes gêneros e formatos. Para o programa, a leitura é “um direito de todos e via de acesso aos bens culturais construídos pela humanidade”.
+            </p>
+        </div>
+        <div class="col-md-5 order-md-1">
+            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                 style="width: 550px; height: 500px;" src="/Post Dia do Livro - Dia Nacional e Internacional do Livro Infantil.gif" data-holder-rendered="true">
+        </div>
+    </div>
+    <hr class="featurette-divider">
+    <div class="row featurette">
+        <div class="col-md-7">
+            <h2 class="featurette-heading">Projeto Ubuntu. <span class="text-muted">Doações de livros infantis!</span></h2>
+            <p class="lead">
+                O <a href="https://www.instagram.com/projetoubuntuleitura/" style="text-decoration: none;">Projeto Ubuntu</a> é 100% colaborativo arrecada doações de livros infantis para montar bibliotecas (a primeira será no Povoado Leite, no Maranhão). Para ajudar, cada um pode escolher o livro que deseja doar contra emissão de boleto (sem frete) ou doar um livro usado em boas condições. O objetivo é que “todas as crianças, sejam elas pobres ou ricas, negras ou brancas, tenham o mesmo acesso à leitura e possam traçar um caminho rico em possibilidades.”
+            </p>
+        </div>
+        <div class="col-md-5">
+            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                 style="width: 550px; height: 500px;;" src="/Panfleto Azul de Escola do Dia das Crianças Estilo 3D.gif" data-holder-rendered="true">
+        </div>
+    </div>
+</main>
+<Rodape />
+@* <script>
+    //notificação no navegador
+    if (!window.Notification) {
+        console.log('Browser does not support notification.');
+    } else {
+        if (Notification.permission === 'granted') {
+            new Notification('Negócio Social!', {
+                body: 'Criamos um PetShop que dá acesso, através da venda de produtos, a bens de consumo para população de baixa renda, todo o valor é revertido a ação social.',
+                icon: 'https://cdn-icons-png.flaticon.com/512/4980/4980801.png',
+            });
+        } else {
+            Notification.requestPermission().then(p => {
+                if (p === 'granted') {
+                    new Notification('new notification!', {
+                        body: 'you have a new message',
+                        icon: 'https://cdn-icons-png.flaticon.com/128/2447/2447823.png',
+                    });
+                } else {
+                    console.log('user blocked notifications.');
+                }
+            }).catch(function (err) {
+                console.error(err);
+            });
+        }
+    }
+</script> *@
