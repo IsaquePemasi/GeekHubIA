@@ -6,6 +6,6 @@
     "\\GeekHubIA\\Pages\\ImageGenerator",
     "\\GeekHubIA\\Shared"
   ],
-  "SelectedNode": "\\GeekHubIA\\Pages\\ImageGenerator\\ImageGenerator.razor",
+  "SelectedNode": "\\GeekHubIA\\Shared\\MainLayout.razor",
   "PreviewInSolutionExplorer": false
 }
