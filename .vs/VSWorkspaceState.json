@@ -3,8 +3,9 @@
     "",
     "\\GeekHubIA",
     "\\GeekHubIA\\Pages",
+    "\\GeekHubIA\\Pages\\ImageGenerator",
     "\\GeekHubIA\\Shared"
   ],
-  "SelectedNode": "\\GeekHubIA\\Shared\\Rodape.razor",
+  "SelectedNode": "\\GeekHubIA\\Pages\\ImageGenerator\\ImageGenerator.razor",
   "PreviewInSolutionExplorer": false
 }

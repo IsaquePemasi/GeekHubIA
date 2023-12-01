@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q/RdaWbjDzeJhbp9hUHYsBmrhoq3A6EdvXEJthygWf4=",
+  "Hash": "dvbcJ85GOmRwC6UEUTCSfAafDLWgmE0xh3F+Aen8cq4=",
   "Source": "GeekHubIA",
   "BasePath": "_content/GeekHubIA",
   "Mode": "Default",
@@ -338,6 +338,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\icon-192-remove.png",
+      "SourceId": "GeekHubIA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\",
+      "BasePath": "_content/GeekHubIA",
+      "RelativePath": "icon-192-remove.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icon-192-remove.png"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Panfleto Azul de Escola do Dia das Crianças Estilo 3D.gif",
