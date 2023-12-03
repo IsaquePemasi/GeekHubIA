@@ -15,7 +15,14 @@
 
 ## Ferramentas e padrões de desenvolvimento utilizados
 - C#
+- HTML5
+- CSS3
+- jQuery
+- Bootstrap 
+- Blazor
+- Blazor Server
 - Dotnet 7
+- Microsoft ASP.NET
 - Consumo de ChatGPT 
 - Consumo de Gerador de imagens
 - Versionamento de Código com Git e Github
