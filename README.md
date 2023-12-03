@@ -1,29 +1,25 @@
-# RotomBot
+# GeekHubIA
 
 ## Sobre o Projeto 
-- O RotomBot, faz parte de um conjunto de três projetos desenvolvidos para a avaliação final da Academia de .NET 2023 da Atos juntamente com a Universidade Franciscana (UFN). O projeto Final consiste de três aplicações (Front-End, Back-End, Bot para verificar se a aplicação está Health) que trabalham em conjunto, neste repositório encontra-se a parte do Bot do Projeto.
+- O GeekHubIA faz parte de um conjunto de três projetos, desenvolvidos para a avaliação final da 5ª Academia de .NET. O projeto Final consiste de três aplicações (Front-End, Back-End e IA, para fazer conexão com ChatGPT e Gerador de imagens) que trabalham em conjunto, neste repositório encontra-se a parte IA do Projeto, feita com Blazor Server.
 
-- Este projeto envolve a implementação de um bot que realiza verificações contínuas nos projetos de front-end e back-end. Ele verifica se os projetos e serviços estão online e prontos para uso imediato. Caso algum dos projetos ou serviços apresente problemas ou esteja offline, o bot enviará um e-mail para o administrador do sistema, informando sobre a situação.
+- Este projeto envolve a implementação do ChatGPT (GeekGPT), que realiza resolução de perguntas feitas pelos usuários, agindo como um ChatBot. Ele verifica as perguntas dos usuários e responde de imediato. Caso algum dos cadastros  de mangás e/ou HQs apresente problemas na ausência de imagem, o Gerador de Imagens pode te ajudar, criando uma imagem através de IA.
 
 ## Vídeo Apresentação do Projeto
-- [Apresentação do Projeto](https://youtu.be/S3BdYtB_ESc)
+- [Apresentação do Projeto]()
 
 ## Links para os outros projetos
-[Back-End (API)](https://github.com/isaque14/pokedex/tree/main)
+[Back-End (API)](https://github.com/IsaquePemasi/GeekHubApi)
 </br>
-[Front-End](https://github.com/isaque14/Pokedex-FrontEnd/tree/main)
+[Front-End](https://github.com/IsaquePemasi/GeekHub)
 
 ## Ferramentas e padrões de desenvolvimento utilizados
 - C#
-- Dotnet 6
-- Consumo de API
-- Servidor de E-mail SMTP SendGrid
+- Dotnet 7
+- Consumo de ChatGPT 
+- Consumo de Gerador de imagens
 - Versionamento de Código com Git e Github
-- Padronização de Commits com Commitizen
 - Integração com Back-End e Front-End
 
-## Responsável pelo Projeto: Isaque Diniz da Silva
-#### Redes Sociais
-[Linkedin](https://www.linkedin.com/in/isaque-diniz-da-silva-a0773459/)
-</br>
-[GitHub](https://github.com/isaque14)
+<h2 align="center">Autor</h2>
+<a href="https://github.com/IsaquePemasi/"><img src="https://avatars.githubusercontent.com/u/76749511?v=4" width=115></a>
