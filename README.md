@@ -1,4 +1,4 @@
-# GeekHubIA
+# GeekHub IA
 
 ## Sobre o Projeto 
 - O GeekHubIA faz parte de um conjunto de três projetos, desenvolvidos para a avaliação final da 5ª Academia de .NET. O projeto Final consiste de três aplicações (Front-End, Back-End e IA, para fazer conexão com ChatGPT e Gerador de imagens) que trabalham em conjunto, neste repositório encontra-se a parte IA do Projeto, feita com Blazor Server.
