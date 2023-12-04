@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\GeekHubIA.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Catalogo.gif",
+      "PackagePath": "staticwebassets\\Catalogo.gif"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Check list volta às aulas ilustrado 3d rosa amarelo story do instagram (1).gif",
       "PackagePath": "staticwebassets\\Check list volta às aulas ilustrado 3d rosa amarelo story do instagram (1).gif"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\IA.gif",
+      "PackagePath": "staticwebassets\\IA.gif"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Mangá.gif",
+      "PackagePath": "staticwebassets\\Mangá.gif"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Panfleto Azul de Escola do Dia das Crianças Estilo 3D.gif",
@@ -15,6 +27,10 @@
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Post Dia do Livro - Dia Nacional e Internacional do Livro Infantil.gif",
       "PackagePath": "staticwebassets\\Post Dia do Livro - Dia Nacional e Internacional do Livro Infantil.gif"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\atos.png",
+      "PackagePath": "staticwebassets\\atos.png"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
@@ -69,12 +85,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\gerador-de-imagens.gif",
+      "PackagePath": "staticwebassets\\gerador-de-imagens.gif"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\icon-192-remove.png",
       "PackagePath": "staticwebassets\\icon-192-remove.png"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\pagina-incial-gibis-mangas1.gif",
+      "PackagePath": "staticwebassets\\pagina-incial-gibis-mangas1.gif"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GeekHubIA.Microsoft.AspNetCore.StaticWebAssets.props",
