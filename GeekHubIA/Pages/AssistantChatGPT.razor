@@ -6,12 +6,12 @@
 
 <EditForm Model="@assistant">
     <textarea class="form-control" id="txt" @bind="assistant.Prompt"
-    style="width:500px;" placeholder="Enter your prompt here" />
+              style="width:500px;" placeholder="Digite seu prompt aqui" />
     <br/>
     <table>
         <tr>
-            <td><button class="btn btn-primary" @onclick="Generate">Generate</button> </td>
-            <td><button class="btn btn-primary" @onclick="Clear">Clear conversation</button> </td>
+            <td><button class="btn btn-primary" @onclick="Generate">Gerar</button> </td>
+            <td><button class="btn btn-primary" @onclick="Clear">Limpar conversa</button> </td>
         </tr>
     </table>
     <br/>
