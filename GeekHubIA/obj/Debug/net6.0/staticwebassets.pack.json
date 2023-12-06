@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\GeekHubIA.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Aventura1.gif",
+      "PackagePath": "staticwebassets\\Aventura1.gif"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Catalogo.gif",
       "PackagePath": "staticwebassets\\Catalogo.gif"
     },
@@ -31,6 +35,10 @@
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\atos.png",
       "PackagePath": "staticwebassets\\atos.png"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\ação.gif",
+      "PackagePath": "staticwebassets\\ação.gif"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
@@ -81,6 +89,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\drama.gif",
+      "PackagePath": "staticwebassets\\drama.gif"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -99,6 +111,10 @@
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\pagina-incial-gibis-mangas1.gif",
       "PackagePath": "staticwebassets\\pagina-incial-gibis-mangas1.gif"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\romance.gif",
+      "PackagePath": "staticwebassets\\romance.gif"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GeekHubIA.Microsoft.AspNetCore.StaticWebAssets.props",

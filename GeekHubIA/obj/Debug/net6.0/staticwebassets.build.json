@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DMwqThNV3X1SBn9owC/MURICBIdDHHGaTBjHICNqJF0=",
+  "Hash": "b7TcFmnwTSzprwGmnzuMnBGnZjKwZT2o2ZCiQZjs6r4=",
   "Source": "GeekHubIA",
   "BasePath": "_content/GeekHubIA",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GeekHubIA.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\ação.gif",
+      "SourceId": "GeekHubIA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\",
+      "BasePath": "_content/GeekHubIA",
+      "RelativePath": "ação.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ação.gif"
+    },
+    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\atos.png",
       "SourceId": "GeekHubIA",
       "SourceType": "Discovered",
@@ -72,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\atos.png"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Aventura1.gif",
+      "SourceId": "GeekHubIA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\",
+      "BasePath": "_content/GeekHubIA",
+      "RelativePath": "Aventura1.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Aventura1.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Catalogo.gif",
@@ -340,6 +378,25 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\drama.gif",
+      "SourceId": "GeekHubIA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\",
+      "BasePath": "_content/GeekHubIA",
+      "RelativePath": "drama.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drama.gif"
+    },
+    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\favicon.ico",
       "SourceId": "GeekHubIA",
       "SourceType": "Discovered",
@@ -509,6 +566,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Post Dia do Livro - Dia Nacional e Internacional do Livro Infantil.gif"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\romance.gif",
+      "SourceId": "GeekHubIA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\",
+      "BasePath": "_content/GeekHubIA",
+      "RelativePath": "romance.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\romance.gif"
     }
   ]
 }

@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\GeekHubIA",
+    "\\GeekHubIA\\Pages",
+    "\\GeekHubIA\\Pages\\ImageGenerator",
     "\\GeekHubIA\\Shared"
   ],
-  "SelectedNode": "\\GeekHubIA.sln",
+  "SelectedNode": "\\GeekHubIA\\Pages\\ImageGenerator\\ImageGenerator.razor",
   "PreviewInSolutionExplorer": false
 }
