@@ -41,6 +41,14 @@
       "PackagePath": "staticwebassets\\ação.gif"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\backugo.png",
+      "PackagePath": "staticwebassets\\backugo.png"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\boruto-uzumaki.png",
+      "PackagePath": "staticwebassets\\boruto-uzumaki.png"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -89,6 +97,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\deku.png",
+      "PackagePath": "staticwebassets\\deku.png"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\drama.gif",
       "PackagePath": "staticwebassets\\drama.gif"
     },
@@ -115,6 +127,14 @@
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\romance.gif",
       "PackagePath": "staticwebassets\\romance.gif"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\shoto.png",
+      "PackagePath": "staticwebassets\\shoto.png"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\tanjiro-kamado.png",
+      "PackagePath": "staticwebassets\\tanjiro-kamado.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GeekHubIA.Microsoft.AspNetCore.StaticWebAssets.props",
