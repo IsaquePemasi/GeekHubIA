@@ -125,6 +125,10 @@
       "PackagePath": "staticwebassets\\pagina-incial-gibis-mangas1.gif"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\pagina-incial.gif",
+      "PackagePath": "staticwebassets\\pagina-incial.gif"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\perguntas.gif",
       "PackagePath": "staticwebassets\\perguntas.gif"
     },

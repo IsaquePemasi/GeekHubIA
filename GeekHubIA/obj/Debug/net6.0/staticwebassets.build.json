@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fTsuzwlzi+HCnJdchog9Wo8dVAvZOe2ge48pGZnmQ+0=",
+  "Hash": "SlIlx1DItqTYJntfaEEV9NLRJH6/uUOcgRO4xWaS7Yk=",
   "Source": "GeekHubIA",
   "BasePath": "_content/GeekHubIA",
   "Mode": "Default",
@@ -566,6 +566,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Mangá.gif"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\pagina-incial.gif",
+      "SourceId": "GeekHubIA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\",
+      "BasePath": "_content/GeekHubIA",
+      "RelativePath": "pagina-incial.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pagina-incial.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\pagina-incial-gibis-mangas1.gif",
