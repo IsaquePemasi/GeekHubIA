@@ -5,15 +5,15 @@
 <PageTitle>GeekGPT</PageTitle>
 
 <h3>GeekGPT</h3>
-
+<br />
 <EditForm Model="@assistant">
     <textarea class="form-control" id="txt" @bind="assistant.Prompt"
-              style="width:500px;" placeholder="Digite seu prompt aqui" />
+              style="width:100%;" placeholder="Digite seu prompt aqui" />
     <br/>
     <table>
         <tr>
-            <td><button class="btn btn-primary" @onclick="Generate">Gerar</button> </td>
-            <td><button class="btn btn-primary" @onclick="Clear">Limpar conversa</button> </td>
+            <td><button class="btn btn-primary" @onclick="Generate" style="background-color: #157347;">Enviar</button> </td>
+            <td><button class="btn btn-primary" @onclick="Clear" style="background-color: rgb(255, 30, 30);">Limpar</button> </td>
         </tr>
     </table>
     <br/>

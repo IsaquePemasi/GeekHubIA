@@ -4,12 +4,12 @@
 @using Newtonsoft.Json
 @using System.Text
 
-<div class="container">
-    <div class="row">
-        <div class="col-3">
+<div class="container" >
+    <div class="row"  style="width:100%;">
+        <div class="col-9">
             <p>@trial</p>
-        </div>
-        <div class="col-3">
+        </div>  
+        <div class="col-6">
             <div class="messages">
                 @for (int i = 0; i < messages.Count; i++)
                 {
@@ -24,8 +24,8 @@
                 }
 
             </div>
-            <div class="textMessage">
-                <input @bind="message" />
+            <div class="textMessage" >
+                <input @bind="message" placeholder="Digite seu prompt aqui" />
                 <button @onclick="SendMessage">Enviar</button>
             </div>
             <div class="textMessageClear">

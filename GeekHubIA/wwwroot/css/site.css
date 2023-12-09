@@ -109,7 +109,7 @@ a, .btn-link {
     width: 200%;
     padding: 10px;
     color: white;
-    background-color: dodgerblue;
+    background-color: #157347;
     border: none;
 }
 
@@ -123,5 +123,6 @@ a, .btn-link {
 }
 /*ChatGPT*/
 .bg-chat {
-    background-color: lightgray;
+    border-radius: 20px;
+    border-color: blue;
 }
