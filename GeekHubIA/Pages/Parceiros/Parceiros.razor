@@ -70,30 +70,5 @@
         </div>
     </div>
 </main>
+<ChangeBackgroundColor />
 <Rodape />
-@* <script>
-    //notificação no navegador
-    if (!window.Notification) {
-        console.log('Browser does not support notification.');
-    } else {
-        if (Notification.permission === 'granted') {
-            new Notification('Negócio Social!', {
-                body: 'Criamos um PetShop que dá acesso, através da venda de produtos, a bens de consumo para população de baixa renda, todo o valor é revertido a ação social.',
-                icon: 'https://cdn-icons-png.flaticon.com/512/4980/4980801.png',
-            });
-        } else {
-            Notification.requestPermission().then(p => {
-                if (p === 'granted') {
-                    new Notification('new notification!', {
-                        body: 'you have a new message',
-                        icon: 'https://cdn-icons-png.flaticon.com/128/2447/2447823.png',
-                    });
-                } else {
-                    console.log('user blocked notifications.');
-                }
-            }).catch(function (err) {
-                console.error(err);
-            });
-        }
-    }
-</script> *@

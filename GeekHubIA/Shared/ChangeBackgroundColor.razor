@@ -1,0 +1,19 @@
+﻿<button @onclick="ChangeBackgroundColorb" class="cookie-alert"><img src="/eclipse_weather_sun_moon_stars_sky_icon_194238.png" style="height:25px;width:25px;" /></button>
+
+<style>
+    body {
+        background-color: @backgroundColor;
+        color: @Color;
+    }
+</style>
+
+@code {
+    private string backgroundColor = "white";
+    private string Color = "black";
+
+    private void ChangeBackgroundColorb()
+    {
+        backgroundColor = backgroundColor == "white" ? "black" : "white";
+        Color = Color == "black" ? "white" : "black";
+    }
+}

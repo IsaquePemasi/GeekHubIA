@@ -6,7 +6,7 @@
     @*metodo para enviar a mensagem de contato, para o email do petamigo*@
     <form method="post" action="https://formsubmit.co/isaquepetamigo@gmail.com">
         <div asp-validation-summary="All" class="text-danger"></div>
-        <img class="mb-4" src="./icon-192.png" width="140" height="140" alt="logo GeekHub">
+        <img class="mb-4" src="./icon-192-remove.png" width="140" height="140" alt="logo GeekHub">
         <h1>Contato</h1>
         <div class="form-group">
             <input type="text" name="name" class="form-control" placeholder="Digite seu nome" required />
@@ -15,7 +15,7 @@
             <input type="email" name="email" class="form-control" placeholder="Digite seu email " required />
         </div>
         <div class="form-group">
-            <textarea cols="130" rows="5" name="message" placeholder="Digite sua mensagem" required></textarea>
+            <textarea cols="135" rows="5" name="message" placeholder="Digite sua mensagem" required></textarea>
         </div>
         <button type="submit" class="btn btn-primary mt-3">Enviar</button>
        @*inputs do formsubmit, para enviar a mensagem para o e mail*@
@@ -24,4 +24,5 @@
         <input type="hidden" name="_captcha" value="false">
     </form>
 </div>
+<ChangeBackgroundColor />
 <Rodape />
