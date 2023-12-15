@@ -1,0 +1,57 @@
+﻿@page "/SpeechtoText"
+
+@using Microsoft.CognitiveServices.Speech;
+@using Microsoft.CognitiveServices.Speech.Audio;
+@using Microsoft.CognitiveServices.Speech.Translation;
+
+<PageTitle>Speech to Text</PageTitle>
+
+<h1>Speech to Text</h1>
+<hr />
+ <p>
+    <input type="text"  class="form-control" @bind-value="InputValue" />
+</p>
+
+<button class="btn btn-primary" @onclick="Click_ReadMyVoice">Read My Voice</button>
+
+@code {
+    static string? InputValue { get; set; }
+
+    async Task Click_ReadMyVoice()
+    {
+        var speechConfig = SpeechConfig.FromSubscription("18d499ba22404d2da7a84ef603b1f7d0", "brazilsouth");
+        speechConfig.SpeechRecognitionLanguage = "pt-BR";
+
+            using var audioConfig = AudioConfig.FromDefaultMicrophoneInput();
+            using var speechRecognizer = new SpeechRecognizer(speechConfig, audioConfig);
+            var speechRecognitionResult = await speechRecognizer.RecognizeOnceAsync();
+            OutputSpeechRecognitionResult(speechRecognitionResult);
+    }
+
+
+     static void OutputSpeechRecognitionResult(SpeechRecognitionResult speechRecognitionResult)
+    {
+        switch (speechRecognitionResult.Reason)
+        {
+            case ResultReason.RecognizedSpeech:
+                InputValue = speechRecognitionResult.Text;
+                break;
+            case ResultReason.NoMatch:
+                InputValue = "NOMATCH: Speech could not be recognized";
+                break;
+            case ResultReason.Canceled:
+                var cancellation = CancellationDetails.FromResult(speechRecognitionResult);
+                InputValue = "CANCELED: Reason="+cancellation.Reason;
+                if (cancellation.Reason == CancellationReason.Error)
+                {
+                    Console.WriteLine($"CANCELED: ErrorCode={cancellation.ErrorCode}");
+                    Console.WriteLine($"CANCELED: ErrorDetails={cancellation.ErrorDetails}");
+                    Console.WriteLine($"CANCELED: Double check the speech resource key and region.");
+                }
+                break;
+        }
+    }
+	
+}
+<ChangeBackgroundColor />
+<Rodape />

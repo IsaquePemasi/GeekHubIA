@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4jJNg8fJG52c5KjGA9Lk7ixo33T+QR2hk3YRC2ZfDd1T5lywZMtnomAaFPgLOgP7ujjpZKZcgR/c/VKY7nvfOA==",
+  "dgSpecHash": "lpbu8ZlGz07m3Ha4vx0jrmO6EW/4spNsJvi/n3gfiM+TnI1lYCaXVWWlSt6UE1XkoraEzNSlOqbaXHIYj2ojDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\GeekHubIA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isaque\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Isaque\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.20.0\\microsoft.cognitiveservices.speech.1.20.0.nupkg.sha512",
     "C:\\Users\\Isaque\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
     "C:\\Users\\Isaque\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\Isaque\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",

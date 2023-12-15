@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uPScBLXRMiqFQth+lNxffPxz8OHyfNwPRzCwKl/6PHo=",
+  "Hash": "UvxaYtHNVCLen+eGHVunpIPBLoY8cIzmkWpcHIMa5fs=",
   "Source": "GeekHubIA",
   "BasePath": "_content/GeekHubIA",
   "Mode": "Default",
@@ -511,6 +511,25 @@
       "OriginalItemSpec": "wwwroot\\gerador-de-imagens.gif"
     },
     {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\goku.png",
+      "SourceId": "GeekHubIA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\",
+      "BasePath": "_content/GeekHubIA",
+      "RelativePath": "goku.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\goku.png"
+    },
+    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\IA.gif",
       "SourceId": "GeekHubIA",
       "SourceType": "Discovered",
@@ -604,25 +623,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\pagina-incial.gif"
-    },
-    {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\pagina-incial-gibis-mangas1.gif",
-      "SourceId": "GeekHubIA",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\",
-      "BasePath": "_content/GeekHubIA",
-      "RelativePath": "pagina-incial-gibis-mangas1.gif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pagina-incial-gibis-mangas1.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Panfleto Azul de Escola do Dia das Crianças Estilo 3D.gif",

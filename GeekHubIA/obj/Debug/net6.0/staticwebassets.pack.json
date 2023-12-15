@@ -117,16 +117,16 @@
       "PackagePath": "staticwebassets\\gerador-de-imagens.gif"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\goku.png",
+      "PackagePath": "staticwebassets\\goku.png"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\icon-192-remove.png",
       "PackagePath": "staticwebassets\\icon-192-remove.png"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\pagina-incial-gibis-mangas1.gif",
-      "PackagePath": "staticwebassets\\pagina-incial-gibis-mangas1.gif"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\pagina-incial.gif",
