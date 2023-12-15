@@ -3,7 +3,7 @@
 
 <link rel="icon" type="image/png" href="./favicon.png">
 
-<PageTitle>GeekHubIA</PageTitle>
+<PageTitle>GeekHub</PageTitle>
 @*intro animada*@
 @*  <div class="intro">
     <h1 class="logo-header">
@@ -98,9 +98,9 @@
 <hr class="featurette-divider">
 <div class="row featurette">
     <div class="col-md-7 order-md-2"><a href="https://localhost:7287/imageGenerator" style="text-decoration: none;">
-        <h2 class="featurette-heading">Gerador de imagens.<span class="text-muted"> Use a imaginação!</span></h2></a>
+        <h2 class="featurette-heading">GeekDALL-E.<span class="text-muted"> Use a imaginação!</span></h2></a>
         <p class="lead">
-            Caso ocorram problemas com as imagens em algum dos registros de mangás e/ou histórias em quadrinhos, o Gerador de Imagens está disponível para auxiliar. Este recurso utiliza inteligência artificial para criar uma imagem, preenchendo a lacuna e garantindo a integridade do cadastro.
+            Caso ocorram problemas com as imagens em algum dos registros de mangás e/ou histórias em quadrinhos, o GeekDALL-E está disponível para auxiliar. A implementação do DALL-E pela OpenAI oferece aos usuários a capacidade de gerar imagens de maneira inovadora. Por meio dessa tecnologia, os usuários têm a oportunidade de criar visualizações únicas e personalizadas, explorando um vasto leque de possibilidades visuais. Essa abordagem revolucionária na geração de imagens coloca nas mãos dos usuários ferramentas poderosas para expressar sua criatividade e produzir conteúdo visualmente impactante.
         </p>
     </div>
     <div class="col-md-5 order-md-1">
@@ -110,17 +110,25 @@
              </a>
     </div>
 </div>
+<hr class="featurette-divider">
+<div class="row featurette">
+    <div class="col-md-7">
+        <a href="https://localhost:7287/speekIA" style="text-decoration: none;">
+            <h2 class="featurette-heading">SpeekIA.<span class="text-muted"> Implementando o Speech Service!</span></h2>
+        </a>
+        <p class="lead">
+            A utilização do Speech Service, uma ferramenta oferecida pela plataforma Microsoft Azure, visa realizar a captura da fala dos usuários e efetuar a conversão desse discurso em texto. Além disso, o serviço também proporciona a funcionalidade inversa, convertendo texto em áudio. Essa abordagem permite uma interação mais eficiente e versátil, permitindo que os usuários expressem suas ideias verbalmente e recebam informações de forma textual, ou vice-versa, conforme as necessidades específicas do contexto de uso. Essa implementação oferece uma solução abrangente para facilitar a comunicação através de diferentes modalidades, tornando a interação mais acessível e adaptável aos diversos perfis de usuários.
+        </p>
+    </div>
+    <div class="col-md-5">
+        <a href="https://localhost:7287/speekIA">
+            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                 style="width: 550px; height: 500px;border-radius:20px;" src="/Speek.gif" data-holder-rendered="true">
+        </a>
+    </div>
+</div>
 
-
-@* splash screen *@
-
-@* @code {
-    protected override async Task OnInitializedAsync()
-    {
-        await JSRuntime.InvokeVoidAsync("myscripts");
-    }
-}
- *@
 
 <ChangeBackgroundColor />
+<CookieAlert />
 <Rodape />

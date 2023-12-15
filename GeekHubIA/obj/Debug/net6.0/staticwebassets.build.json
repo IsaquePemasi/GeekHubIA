@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+7ZqAOQ06CL5cHUuT6mg3huUquG51zbFT+NJRUvswLU=",
+  "Hash": "D/9zPALXnMFZl5gseEmfUIEMhx5iUING1M7baNCGwOQ=",
   "Source": "GeekHubIA",
   "BasePath": "_content/GeekHubIA",
   "Mode": "Default",
@@ -775,6 +775,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\shoto.png"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\Speek.gif",
+      "SourceId": "GeekHubIA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\",
+      "BasePath": "_content/GeekHubIA",
+      "RelativePath": "Speek.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Speek.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\GeekHubIA\\GeekHubIA\\wwwroot\\SpeekIA.gif",
