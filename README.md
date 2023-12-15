@@ -44,8 +44,11 @@
 - Blazor Server
 - Dotnet 7
 - Microsoft ASP.NET
+- Microsoft Azure
+- OpenAI
 - Consumo de ChatGPT 
-- Consumo de Gerador de imagens
+- Consumo de DALL-E
+- Consumo de Speech service
 - Versionamento de Código com Git e Github
 - Integração com Back-End e Front-End
 <h2 align="center">Como Reproduzir</h2>
