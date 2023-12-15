@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXp1cmVTcGVlY2hTZXJ2aWNlXFNwZWVjaFRvVGV4dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Isaque/Desktop/GeekHubIA/GeekHubIA/Pages/AzureSpeechService/SpeechToTextAndTextToSpeech.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXp1cmVTcGVlY2hTZXJ2aWNlXFNwZWVjaFRvVGV4dEFuZFRleHRUb1NwZWVjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Isaque/Desktop/GeekHubIA/GeekHubIA/Pages/AzureSpeechService/TextToSpeech.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXp1cmVTcGVlY2hTZXJ2aWNlXFRleHRUb1NwZWVjaC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
