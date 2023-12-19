@@ -40,17 +40,16 @@
 - CSS3
 - jQuery
 - Bootstrap 
-- Blazor
 - Blazor Server
 - Dotnet 7
+- FormSubmit
 - Microsoft ASP.NET
 - Microsoft Azure
 - OpenAI
-- Consumo de ChatGPT 
-- Consumo de DALL-E
-- Consumo de Speech service
+- Consumo de ChatGPT (OpenAI)
+- Consumo de DALL-E (OpenAI)
+- Consumo de Speech service (Microsoft Azure)
 - Versionamento de Código com Git e Github
-- Integração com Back-End e Front-End
 <h2 align="center">Como Reproduzir</h2>
 
 ### Passo 1: Instalar as Ferramentas Necessárias
