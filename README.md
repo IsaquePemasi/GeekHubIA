@@ -43,7 +43,6 @@
 - Blazor Server
 - Dotnet 7
 - FormSubmit
-- Microsoft ASP.NET
 - Microsoft Azure
 - OpenAI
 - Consumo de ChatGPT (OpenAI)
