@@ -22,9 +22,9 @@
 
 <h2 align="center">Sobre o Projeto</h2>
 
-- O GeekHubIA faz parte de um conjunto de três projetos, desenvolvidos para a avaliação final da 6ª Academia de .NET. O projeto Final consiste de três aplicações (Front-End, Back-End e IA, para fazer conexão com ChatGPT, DALL-E e Speech Service) que trabalham em conjunto. neste repositório encontra-se a parte IA do Projeto, feita com Blazor Server.
+- O GeekHubIA faz parte de um conjunto de 3 projetos, desenvolvidos para a avaliação final da 6ª Academia de .NET. O projeto Final consiste de 3 aplicações (Front-End, Back-End e IA, para fazer conexão com ChatGPT, DALL-E e Speech Service) que trabalham em conjunto. Neste repositório encontra-se a parte IA do Projeto, feita com Blazor Server.
 
-- Este projeto envolve a implementação do ChatGPT (GeekGPT), que realiza resolução de perguntas feitas pelos usuários, agindo como um ChatBot. Ele verifica as perguntas dos usuários e responde de imediato. Caso algum dos cadastros  de mangás e/ou HQs apresente problemas na ausência de imagem, o DALL-E (GeekDALL-E) pode te ajudar, criando uma imagem através de IA. Se preferir descrever as informações através da fala, a utilização do Speech Service (SpeekIA), uma ferramenta oferecida pela plataforma Microsoft Azure, visa realizar a captura da fala dos usuários e efetuar a conversão desse discurso em texto. Além disso, o serviço também proporciona a funcionalidade inversa, convertendo texto em áudio.
+- Este projeto envolve a implementação do ChatGPT (GeekGPT), que realiza resolução de perguntas feitas pelos usuários, agindo como um ChatBot. Ele verifica as perguntas dos usuários e responde de imediato. Caso algum dos cadastros  de mangás e/ou HQs apresente problemas na ausência de imagem, o DALL-E (GeekDALL-E) pode te ajudar, criando imagens através de IA. Se preferir descrever as informações através da fala, a utilização do Speech Service (SpeekIA), uma ferramenta oferecida pela plataforma Microsoft Azure, visa realizar a captura da fala dos usuários e efetuar a conversão desse discurso em texto. Além disso, o serviço também proporciona a funcionalidade inversa, convertendo texto em áudio.
 
 <h2 align="center">Vídeo Apresentação do Projeto</h2>
 
