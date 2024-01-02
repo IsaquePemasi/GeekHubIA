@@ -22,20 +22,8 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Isaque/Desktop/GeekHubIA/GeekHubIA/Pages/AssistantChatGPT.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaXN0YW50Q2hhdEdQVC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Isaque/Desktop/GeekHubIA/GeekHubIA/Pages/AzureSpeechService/SpeechToText.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXp1cmVTcGVlY2hTZXJ2aWNlXFNwZWVjaFRvVGV4dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Isaque/Desktop/GeekHubIA/GeekHubIA/Pages/AzureSpeechService/SpeechToTextAndTextToSpeech.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXp1cmVTcGVlY2hTZXJ2aWNlXFNwZWVjaFRvVGV4dEFuZFRleHRUb1NwZWVjaC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Isaque/Desktop/GeekHubIA/GeekHubIA/Pages/AzureSpeechService/TextToSpeech.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXp1cmVTcGVlY2hTZXJ2aWNlXFRleHRUb1NwZWVjaC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Isaque/Desktop/GeekHubIA/GeekHubIA/Pages/Contato/Contato.razor]
